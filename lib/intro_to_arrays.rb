@@ -9,3 +9,7 @@ end
 def first_element(first)
   first[0]
 end 
+
+def third_element(third)
+  third[2]
+end 
